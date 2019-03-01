@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="1"
+    android:background="@color/white"
+    tools:context="com.example.hp.battleship.InstructionsActivity">
+
+
+    <TextView
+        android:id="@+id/instructions_header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.1"
+        android:textSize="50dp"
+        android:paddingTop="30dp"
+        android:textColor="#FF19797B"
+        android:fontFamily="serif"
+        android:gravity="center"
+        android:text="@string/instructions_header" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="450dp"
+        android:layout_gravity="bottom"
+        android:layout_marginTop="20dp">
+
+        <TextView
+            android:id="@+id/instructions_text"
+            android:layout_width="match_parent"
+            android:layout_height="155dp"
+            android:layout_weight="0.8"
+            android:paddingLeft="20dp"
+            android:scrollbars="vertical"
+            android:textColor="@color/black"
+            android:textSize="20dp" />
+    </ScrollView>
+
+</LinearLayout>

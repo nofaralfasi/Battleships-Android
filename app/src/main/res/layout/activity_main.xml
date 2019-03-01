@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/main"
+    android:backgroundTint="@color/blackTint"
+    android:backgroundTintMode="src_over"
+    tools:context="com.example.hp.battleship.MainActivity">
+
+    <TextView
+        android:id="@+id/diff_text_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="200dp"
+        android:fontFamily="sans-serif"
+        android:layout_centerInParent="true"
+        android:text="@string/choose_difficulty"
+        android:textColor="@color/white"
+        android:textSize="20dp" />
+
+
+    <NumberPicker
+        android:id="@+id/difficultyPickerPicker"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_marginTop="30dp"
+        android:gravity="center"
+        android:descendantFocusability="blocksDescendants" />
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <ImageButton
+            android:id="@+id/startButton"
+            android:layout_width="131dp"
+            android:layout_height="55dp"
+            android:layout_above="@+id/scoreButton"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="35dp"
+            android:background="@drawable/b_start"
+            android:clickable="true"
+            android:onClick="startGame"
+            android:padding="10dip"
+            android:scaleType="center" />
+
+
+        <ImageButton
+            android:id="@+id/instructions_button"
+            android:layout_width="38dp"
+            android:layout_height="38dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_gravity="right"
+            android:background="@drawable/information"
+            android:clickable="true"
+            android:gravity="center"
+            android:padding="10dip"
+            android:onClick="goToInstructions" />
+
+        <ImageButton
+            android:id="@+id/scoreButton"
+            android:layout_width="38dp"
+            android:layout_height="38dp"
+            android:layout_alignParentBottom="true"
+            android:layout_gravity="right"
+            android:layout_toLeftOf="@+id/instructions_button"
+            android:background="@drawable/score_icon"
+            android:clickable="true"
+            android:padding="10dip"
+            android:gravity="center"
+            android:onClick="showHighScore" />
+
+    </RelativeLayout>
+
+
+</LinearLayout>
