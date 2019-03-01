@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true">
+    <item android:drawable="@drawable/transparent" android:duration="100"/>
+    <item android:drawable="@drawable/fire1" android:duration="80"/>
+    <item android:drawable="@drawable/fire2" android:duration="80" />
+    <item android:drawable="@drawable/fire3" android:duration="80" />
+    <item android:drawable="@drawable/fire4" android:duration="80" />
+    <item android:drawable="@drawable/fire5" android:duration="80" />
+    <item android:drawable="@drawable/fire6" android:duration="80" />
+    <item android:drawable="@drawable/fire7" android:duration="80" />
+    <item android:drawable="@drawable/fire8" android:duration="80" />
+    <item android:drawable="@drawable/fire9" android:duration="80" />
+    <item android:drawable="@drawable/fire10" android:duration="80" />
+    <item android:drawable="@drawable/fire11" android:duration="80" />
+    <item android:drawable="@drawable/fire12" android:duration="80" />
+    <item android:drawable="@drawable/fire13" android:duration="80" />
+    <item android:drawable="@drawable/fire14" android:duration="80" />
+    <item android:drawable="@drawable/fire15" android:duration="80" />
+    <item android:drawable="@drawable/fire16" android:duration="80" />
+    <item android:drawable="@drawable/transparent" android:duration="100"/>
+
+</animation-list>
