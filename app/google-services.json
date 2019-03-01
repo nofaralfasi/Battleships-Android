@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "158510348854",
+    "firebase_url": "https://engaged-precept-228419.firebaseio.com",
+    "project_id": "engaged-precept-228419",
+    "storage_bucket": "engaged-precept-228419.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158510348854:android:1a06892c362b0c57",
+        "android_client_info": {
+          "package_name": "com.example.hp.battleship"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158510348854-47p6d64gvlsb478supmb3qtq6tsdpb86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkcmbd6t_-Q3nn0N146t5NCizoxtSmYqw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
