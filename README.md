@@ -6,8 +6,9 @@
 ### Wireframe:
 ![wireframe](https://user-images.githubusercontent.com/38184193/54037680-69276e80-41c7-11e9-8e0d-5d095f610746.png)
 
-### Welcome Screen
-![8](https://user-images.githubusercontent.com/38184193/53635854-1548e280-3c27-11e9-87e0-b17d0baf5543.png)
+### Home Screen
+![1](https://user-images.githubusercontent.com/38184193/54037809-b1df2780-41c7-11e9-87c7-dcbac3009a93.png)
+
 
 ![1](https://user-images.githubusercontent.com/38184193/53635801-eb8fbb80-3c26-11e9-9cd5-8eba1c98ebb5.png)
 
