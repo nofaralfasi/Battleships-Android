@@ -18,6 +18,9 @@
 ### Middle Game
 ![2](https://user-images.githubusercontent.com/38184193/54038118-7133de00-41c8-11e9-9850-766730392970.png)
 
-Maps 5
+### Save New Record 
+![4](https://user-images.githubusercontent.com/38184193/54038538-75143000-41c9-11e9-9988-d2daeddfb5e2.png)
+
+### High Scores
 ![5](https://user-images.githubusercontent.com/38184193/54038176-90327000-41c8-11e9-8463-95f69ebbea4d.png)
 
