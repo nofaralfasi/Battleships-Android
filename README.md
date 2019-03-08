@@ -1,5 +1,8 @@
 # Battleships-Android
 
+### UML Diagram:
+![battleships_uml_2](https://user-images.githubusercontent.com/38184193/54037328-8e67ad00-41c6-11e9-8288-fd253748fa7c.png)
+
 
 ![8](https://user-images.githubusercontent.com/38184193/53635854-1548e280-3c27-11e9-87e0-b17d0baf5543.png)
 
