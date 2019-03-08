@@ -4,8 +4,9 @@
 ![battleships_uml_2](https://user-images.githubusercontent.com/38184193/54037328-8e67ad00-41c6-11e9-8288-fd253748fa7c.png)
 
 ### Wireframe:
-![wireframe](https://user-images.githubusercontent.com/38184193/54037577-2bc2e100-41c7-11e9-857f-6b883051c41b.png)
+![wireframe](https://user-images.githubusercontent.com/38184193/54037680-69276e80-41c7-11e9-8e0d-5d095f610746.png)
 
+### Welcome Screen
 ![8](https://user-images.githubusercontent.com/38184193/53635854-1548e280-3c27-11e9-87e0-b17d0baf5543.png)
 
 ![1](https://user-images.githubusercontent.com/38184193/53635801-eb8fbb80-3c26-11e9-9cd5-8eba1c98ebb5.png)
